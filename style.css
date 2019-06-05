@@ -1,0 +1,36 @@
+.banner {
+	height: 850px;
+	background-image: url(banner.jpg);
+	background-size: 100%;
+}
+.info {
+	height: 1800px;
+}
+.mini-info {
+	height: 600px;
+	background: white;
+	display: flex;
+	padding-left: 45px;
+	padding-top: 100px;
+}
+.block {
+	height: 500px;
+	width: 600px;
+	background: white;
+}
+.m-l {
+	margin-left: 40px;
+}
+.kartinka {
+	height: 500px;
+	width: 600px;
+}
+body:hover {
+	transition: 1s;
+	opacity: 0;
+}
+body {
+	font-family: arial;
+	transition: 1s;
+}
+
